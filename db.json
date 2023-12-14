@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "name": "Abu Obayeda",
+      "age": 30,
+      "skill": "Marn Stack",
+      "id": 1
+    },
+    {
+      "name": "Azad",
+      "age": 80,
+      "skill": "laravel Devs",
+      "id": 2
+    },
+    {
+      "name": "Rasel",
+      "age": 120,
+      "skill": "wordpress devs",
+      "id": 3
+    },
+    {
+      "name": "Noman",
+      "age": 140,
+      "skill": "IOS devs",
+      "id": 4
+    },
+    {
+      "name": "Rocky",
+      "age": 40,
+      "skill": "Blockchian devs",
+      "id": 5
+    }
+  ],
+  "teachers": [],
+  "staff": []
+}
